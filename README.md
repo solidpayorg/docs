@@ -1,2 +1,2 @@
-# docs
-documentation for solidpay
+# Solid Pay
+
