@@ -1,5 +1,7 @@
 # General Concepts
 
+![A Test Wallet](.gitbook/assets/testwallet.png)
+
 **Wallet**
 
 A wallet is the parent of a ledger and a set of transactions.  It can have meta data associated with it.  By convention every wallet will have exactly one currency that is used throughout the system.
