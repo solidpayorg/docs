@@ -10,13 +10,13 @@ A wallet is the parent of a ledger and a set of transactions, known as the Credi
 
 ![A Test Ledger](.gitbook/assets/testledger.png)
 
-A ledger is a set of users and balances.  Every user is denoted using a URI.  A ledger will also have a start state.  Also known as the Genesis Ledger.  By default all balances are null in the Genesis Ledger.  The Ledger is a derived data structure that is calculated from the initial state and the CreditChain.  
+A ledger is a set of users and balances.  Every user is denoted using a URI.  A ledger will also have a start state.  Also known as the Genesis Ledger.  By default all balances are null in the Genesis Ledger.  The Ledger is a derived data structure that is calculated from the initial state and the CreditChain.
 
 ## **CreditChain**
 
 ![A Test CreditChain](.gitbook/assets/testcreditchain.png)
 
-A credit chain is a chain of credit transactions that create the ledger from the initial state.
+A credit chain is a chain of credit transactions that is used to derive the ledger from the initial state.  Credits are ordered and collected together so that the ledger can be verified and the Ledger computed.
 
 ### **Credit / Transaction**
 
