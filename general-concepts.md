@@ -6,7 +6,7 @@ A wallet is the parent of a ledger and a set of transactions.  It can have meta 
 
 **Ledger**
 
-A ledger is a set of users and balances.  A ledger will also have a start state.  Also known as the Genesis Ledger.  By default all balances are null in the Genesis Ledger.
+A ledger is a set of users and balances.  Every user is denoted using a URI.  A ledger will also have a start state.  Also known as the Genesis Ledger.  By default all balances are null in the Genesis Ledger.
 
 **Credit / Transaction**
 
