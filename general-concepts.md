@@ -8,9 +8,9 @@ A wallet is the parent of a ledger and a set of transactions.  It can have meta 
 
 A ledger is a set of users and balances.  A ledger will also have a start state.  Also known as the Genesis Ledger.  By default all balances are null in the Genesis Ledger.
 
-**Credit**
+**Credit / Transaction**
 
-A credit is a web credit that indicates a payment between two counter parties.  By default the rule is that you cant send more funds that you have.  In other words no balance can drop below zero.
+A credit is a web credit that indicates a payment between two counter parties.  Another name for a credit is a transaction, the two terms will be used interchangeably.  By default the rule is that you cant send more funds that you have.  In other words no balance can drop below zero.
 
 **CreditChain**
 
