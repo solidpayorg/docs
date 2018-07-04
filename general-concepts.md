@@ -1,20 +1,20 @@
 # General Concepts
 
-![A Test Wallet](.gitbook/assets/testwallet.png)
+## **Wallet**
 
-**Wallet**
+![A Test Wallet](.gitbook/assets/testwallet.png)
 
 A wallet is the parent of a ledger and a set of transactions.  It can have meta data associated with it.  By convention every wallet will have exactly one currency that is used throughout the system.
 
-![A Test Ledger](.gitbook/assets/testledger.png)
+## **Ledger**
 
-**Ledger**
+![A Test Ledger](.gitbook/assets/testledger.png)
 
 A ledger is a set of users and balances.  Every user is denoted using a URI.  A ledger will also have a start state.  Also known as the Genesis Ledger.  By default all balances are null in the Genesis Ledger.
 
-![](.gitbook/assets/testcreditchain.png)
+## **CreditChain**
 
-**CreditChain**
+![](.gitbook/assets/testcreditchain.png)
 
 A credit chain is a chain of credit transactions that create the ledger from the initial state.
 
