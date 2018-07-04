@@ -10,29 +10,29 @@ Bob wishes to paint a pixel on the website, [testnet.satoshis.place](https://tes
 
 **IPFS Pinning**
 
-Todo : write up
+The IPFS system is used to store content addressable files.  Peers can 'pin' a file making it globally accessible.  However there is a cost associated with that.  Micro payments could incentivize a user to pin a file and receive an income.
 
 **Pay for Hosting**
 
-Todo : write up
+It may be possible to use the system to pay for the hosting of your wallet or other files with micro payments themselves.  In this way you can get a a bit of storage space and be confident your files will be long lived.
 
 **Faucet**
 
-Todo : write up
+A faucet is a simple tool to get users started with a bit of currency.  It can be used to test or to buy services to help those with less funds.
 
 **Paywall**
 
-Todo : write up
+A pay wall is an access controlled piece of content.  Sending a micro payment to the right place can open up the content.  Solid is well suited to such use cases with its ACL system.
 
 **Dynamic DNS Service**
 
-Todo : write up
+Dynamic DNS allows you to use a name server to root traffic to your own computer.  It's useful but often a pay service.  Micro payments could allow you to use a name server in order to share files on your laptop, desktop or other device.
 
 **Smart Proxies**
 
-Todo : write up
+Proxies can be used to get files such as a CORS proxy for javascript.  However you may want to throttle how much a given user can take, micro payments could allow a set limit on your proxy.
 
 **Make a Withdrawal**
 
-Todo : write up
+Withdrawals can be orchestrated by someone in the system with a balance.  It is a bad idea to store any funds on a server, as it invites hackers.  A hot wallet may be a solution but suffers from the same limitation.  A better solution might be have withdrawal requests sent to trusted notaries who verify the size and the request, then process based on cold storage, or a hardware wallet.
 
