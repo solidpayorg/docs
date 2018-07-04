@@ -16,3 +16,15 @@ Todo : write up
 
 Todo : write up
 
+**Faucet**
+
+Todo : write up
+
+**Paywall**
+
+Todo : write up
+
+**Dynamic DNS Service**
+
+Todo : write up
+
