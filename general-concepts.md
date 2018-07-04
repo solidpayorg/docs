@@ -10,7 +10,7 @@ A wallet is the parent of a ledger and a set of transactions, known as the Credi
 
 ![A Test Ledger](.gitbook/assets/testledger.png)
 
-A ledger is a set of users and balances.  Every user is denoted using a URI.  A ledger will also have a start state.  Also known as the Genesis Ledger.  By default all balances are null in the Genesis Ledger.
+A ledger is a set of users and balances.  Every user is denoted using a URI.  A ledger will also have a start state.  Also known as the Genesis Ledger.  By default all balances are null in the Genesis Ledger.  The Ledger is a derived data structure that is calculated from the initial state and the CreditChain.  
 
 ## **CreditChain**
 
@@ -28,7 +28,7 @@ A deposit is a special kind of transaction that comes from an external system of
 
 ### **Coinbase**
 
-A coinbase is a special account in the Genesis Ledger which starts above zero.  The wallet creator will typically control the coinbase and set the rules of emission ie how those coins are distributed to the user base.  A coinbase will normally be backed by goods, services or other assets.
+A coinbase is a special optional account in the Genesis Ledger which is allowed to start above zero.  The wallet creator will typically control the coinbase and set the rules of emission ie how those coins are distributed to the user base.  A coinbase will normally be backed by goods, services or other assets.
 
 ## Inbox
 
