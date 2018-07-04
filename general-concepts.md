@@ -4,7 +4,7 @@
 
 ![A Test Wallet](.gitbook/assets/testwallet.png)
 
-A wallet is the parent of a ledger and a set of transactions, which is known as the _CreditChain_.  It can have meta data associated with it.  By convention every wallet will have exactly one currency that is used throughout the system.
+A wallet is the parent of a _Ledger_ and a set of transactions, which is known as the _CreditChain_.  It can have meta data associated with it.  By convention every wallet will have exactly one currency that is used throughout the system.
 
 ## **Ledger**
 
