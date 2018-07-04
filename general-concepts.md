@@ -16,7 +16,7 @@ A **Ledger** is a set of users and balances.  Every user is denoted using a URI.
 
 ![A Test CreditChain](.gitbook/assets/testcreditchain.png)
 
-A **CreditChain** is a chain of credit transactions that is used to derive the ledger from the initial state.  _Credits_ are ordered and collected together so that the _Ledger_ can be verified and computed.
+A **CreditChain** is a chain of credit transactions that is used to derive the _Ledger_ from the initial state.  _Credits_ are ordered and collected together so that the _Ledger_ can be verified and computed.
 
 ### **Credit / Transaction**
 
@@ -24,7 +24,7 @@ A **Credit** is a web credit that indicates a payment between two counter partie
 
 ### Deposit
 
-A **Deposit** is a special kind of transaction that comes from an external system of the same currency.  For example you could deposit from a bitcoin testnet address to the address of a URI.  On verification of that transaction the URI can receive a higher balance.
+A **Deposit** is a special kind of _Transaction_ that comes from an external system of the same currency.  For example you could deposit from a bitcoin testnet address to the address of a URI.  On verification of that transaction the URI can receive a higher balance.
 
 ### **Coinbase**
 
