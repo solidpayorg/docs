@@ -26,3 +26,7 @@ A credit is a web credit that indicates a payment between two counter parties.  
 
 A coinbase is a special account in the Genesis Ledger which starts above zero.  The wallet creator will typically control the coinbase and set the rules of emission ie how those coins are distributed to the user base.  A coinbase will normally be backed by goods, services or other assets.
 
+## Inbox
+
+An inbox is a useful mechanism advertised by a wallet which instructs an agent where to send new credits.  Typically, those credits will be validated on receipt and if valid added immediately to the CreditChain, with the Ledger updated.
+
