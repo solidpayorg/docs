@@ -28,6 +28,10 @@ Todo : write up
 
 Todo : write up
 
+**Smart Proxies**
+
+Todo : write up
+
 **Make a Withdrawal**
 
 Todo : write up
