@@ -2,4 +2,5 @@
 
 * [Solid Pay](README.md)
 * [General Concepts](general-concepts.md)
+* [User Stories](user-stories.md)
 
