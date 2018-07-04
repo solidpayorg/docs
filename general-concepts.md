@@ -4,13 +4,13 @@
 
 ![A Test Wallet](.gitbook/assets/testwallet.png)
 
-A wallet is the parent of a ledger and a set of transactions, known as the CreditChain.  It can have meta data associated with it.  By convention every wallet will have exactly one currency that is used throughout the system.
+A wallet is the parent of a ledger and a set of transactions, which is known as the _CreditChain_.  It can have meta data associated with it.  By convention every wallet will have exactly one currency that is used throughout the system.
 
 ## **Ledger**
 
 ![A Test Ledger](.gitbook/assets/testledger.png)
 
-A ledger is a set of users and balances.  Every user is denoted using a URI.  A ledger will also have a start state.  Also known as the Genesis Ledger.  By default all balances are null in the Genesis Ledger.  The Ledger is a derived data structure that is calculated from the initial state and the CreditChain.
+A ledger is a set of users and balances.  Every user is denoted using a URI.  A wallet will also have a start state.  Also known as the Genesis Ledger.  By default all balances are null in the Genesis Ledger.  The Ledger is a derived data structure that is calculated from the start state and using the CreditChain.
 
 ## **CreditChain**
 
