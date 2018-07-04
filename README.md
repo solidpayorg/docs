@@ -1,10 +1,6 @@
----
-description: Documentation of solid pay
----
-
 # Solid Pay
 
-General Concepts
+Solid Pay is a payment system for the Solid framework.  It is built heavily on the webcredits specification which allows for Credits between counter parties.
 
-User Stories
+Outlined in this guide are general concepts, user stories and technical details for creating and interacting with payment systems on under Solid. 
 
