@@ -8,3 +8,5 @@ Outlined in this guide are general concepts, user stories and technical details 
 
 Solid Pay is not a crypto currency it is a higher layer technology that lives above existing currencies.  However, Solid Pay, itself, is currency agnostic and any currency is usable with it.  
 
+Being a higher layer protocol it is capable of thousands or even millions of transactions per second, instantaneously and at zero cost. Anyone with a solid pod or that is a solid user can participate, without needing a wallet, however, it should be backwards compatible with the existing web.
+
