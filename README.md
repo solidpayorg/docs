@@ -22,7 +22,7 @@ Higher layers such as solid pay can interface with both bitcoin and lightning an
 
 Solid builds on 30 years of Web research and development.  It has a cutting edge semantic layer with proven scalability, capable of smart contracts, ICOs, web hooks, machine feedback loops and much more.  It is available natively in every browser, so no need to install a wallet.  It has a proven security model, with digital signatures, which are the equivalent of signing a check.  
 
-Special features such as access control allow advanced use such as public and private ledgers, or even time, block and side chains.  Additionally, append only inboxes allow a unique and secure way of securely sending transactions from one server to another.  You can only do this with a full read write web, which solid offers.
+Special features such as access control allow advanced use such as public and private ledgers, or even time, block and side chains.  Additionally, append only inboxes allow a unique and secure way of sending transactions from one server to another.  You can only do this with a full read write web, which solid offers.
 
 ### About This Guide
 
