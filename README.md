@@ -18,6 +18,12 @@ Layer 2 such as lightning network has a deposit in order to participate and two 
 
 Higher layers such as solid pay can interface with both bitcoin and lightning and offers a web based transaction system which uses lower layers for settlement.  Consider a system like adsense.  You may incur millions of clicks over a year, but only cash out once per month.
 
+### Why Solid?
+
+Solid builds on 30 years of Web research and development.  It has a cutting edge semantic layer with proven scalability, capable of smart contracts, ICOs, web hooks, machine feedback loops and much more.  It is available natively in every browser, so no need to install a wallet.  It has a proven security model, with digital signatures, which are the equivalent of signing a check.  
+
+Special features such as access control allow advanced use such as public and private ledgers, or even time, block and side chains.  Additionally, append only inboxes allow a unique and secure way of securely sending transactions from one server to another.  You can only do this with a full read write web, which solid offers.
+
 ### About This Guide
 
 Outlined in this guide are general concepts, user stories and technical details for creating and interacting with payment systems on under Solid. 
