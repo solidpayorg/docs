@@ -12,7 +12,7 @@ Being a higher layer protocol it is capable of thousands or even millions of tra
 
 ### Why not use a block chain?
 
-While block chains are a great technology, solid pay builds on _top_ of existing networks.  For example, the bitcoin block chain takes is instant but requires around ten minutes for a confirm, has around 4 transactions per second and has a fee market.  
+While block chains are a great technology, solid pay builds on _top_ of existing networks.  For example, the bitcoin block chain is instant but requires around ten minutes for a confirmation, has around 4 transactions per second and has a fee market.  
 
 Layer 2 such as lightning network has a deposit in order to participate and two transactions to build a channel, then can scale micro payments across a network efficiently.  
 
