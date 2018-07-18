@@ -26,7 +26,7 @@ A pay wall is an access controlled piece of content.  Sending a micro payment to
 
 ## **Dynamic DNS Service**
 
-Dynamic DNS allows you to use a name server to root traffic to your own computer.  It's useful but often a pay service.  Micro payments could allow you to use a name server in order to share files on your laptop, desktop or other device.
+Dynamic DNS allows you to use a name server to root traffic to your own computer.  It's useful but often a pay service.  Micro payments could allow you to use a name server in order to share files on your laptop, desktop or other device.  A related service could be used to register .solid domains.
 
 ## **Smart Proxies**
 
