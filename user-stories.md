@@ -18,7 +18,7 @@ It may be possible to use the system to pay for the hosting of your wallet or ot
 
 ## **Faucet**
 
-A faucet is a simple tool to get users started with a bit of currency.  It can be used to test or to buy services to help those with less funds.
+A faucet is a simple tool that allows users to get started with small amounts of currency, for free.  It can be used to test or to buy services to help those without funds.
 
 ## **Paywall**
 
