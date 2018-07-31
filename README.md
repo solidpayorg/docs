@@ -16,7 +16,7 @@ While block chains are a great technology, solid pay builds on _top_ of existing
 
 Layer 2 such as lightning network has a deposit in order to participate and two transactions to build a channel, then can scale micro payments across a network efficiently.  
 
-Higher layers such as solid pay can interface with both bitcoin and lightning and offers a web based transaction system which uses lower layers for settlement.  Consider a system like adsense.  You may incur millions of clicks over a year, but only cash out once per month.
+Higher layers such as Solid Pay can interface with both bitcoin and lightning and offers a web based transaction system which uses lower layers for settlement.  Consider a system like adsense.  You may incur millions of clicks over a year, but only cash out once per month.
 
 ### Why Solid?
 
