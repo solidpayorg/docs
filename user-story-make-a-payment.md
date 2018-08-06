@@ -14,3 +14,7 @@ Validation first verifies that the credit was sent by the user.  This can be don
 
 If the credit validates, it is added to the CreditChain.  The simplest implementation uses flat files for each block in the credit chain.  Given that files cannot grow indefinitely in length, it may be practical to set a max number of credits per file, and link to the previous.  Atomically the Ledger is also incremented and decremented based on the credit.
 
+### Timestamps
+
+The order of the credits is important, in order to guarantee the integrity of the ledger.  Time stamps can often drift in global systems, or clocks can be incorrect.  In such a way the credits may require next / prev pointers in order to preserver order.
+
