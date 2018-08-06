@@ -10,7 +10,7 @@ In Solid Pay every user is denoted by a URI.  In order to make a deposit from an
 
 ### Deposits from Bitcoin and Bitcoin Testnet
 
-The method described here uses Hierarchical Deterministic wallets.  
+The method described here uses Hierarchical Deterministic wallets \(HD Wallet\).  This has the advantage of ensuring that funds never live on the server, leading to better security.
 
 
 
