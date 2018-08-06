@@ -16,5 +16,5 @@ If the credit validates, it is added to the CreditChain.  The simplest implement
 
 ### Timestamps
 
-The order of the credits is important, in order to guarantee the integrity of the ledger.  Time stamps can often drift in global systems, or clocks can be incorrect.  In such a way the credits may require next / prev pointers in order to preserver order.
+The order of the credits is important, in order to guarantee the integrity of the ledger.  Time stamps can often drift in global systems, or clocks can be incorrect.  In such a way the credits may require next / prev pointers in order to preserver order, or in built ordering structures such as arrays or lists.  This relates to the subtle distinction between time and block chains.
 
