@@ -4,6 +4,14 @@
 
 As a user, Alice would like some credits for a given wallet.  She obtains a deposit address, then sends a deposit to that address.  The funds should show up in the CreditChain, and consequently, the Ledger after the transfer is confirmed.
 
+## **Make a Payment**
+
+As a user, Alice wishes to pay Bob, 10 units for a pizza.  She creates a web credit, and adds a note of "Pizza".  This is then sent to the wallet inbox, and Bob's balance is increased.
+
+## **Make a Withdrawal**
+
+Withdrawals can be orchestrated by someone in the system with a balance.  It is a bad idea to store any funds on a server, as it invites hackers.  A hot wallet may be a solution but suffers from the same limitation.  A better solution might be have withdrawal requests sent to trusted notaries who verify the size and the request, then process based on cold storage, or a hardware wallet.
+
 ## **Paint a pixel on Lightning Testnet**
 
 Bob wishes to paint a pixel on the website, [testnet.satoshis.place](https://testnet.satoshis.place/), however does not have a testnet lightning wallet.  Bob acquires some funds on solid from a friend and then decides which pixel to paint.  An invoice is created and the pixel is painted.  Bob's balance is reduced by one satoshi and recorded in the CreditChain.
@@ -31,10 +39,6 @@ Dynamic DNS allows you to use a name server to root traffic to your own computer
 ## **Smart Proxies**
 
 Proxies can be used to get files such as a CORS proxy for javascript.  However you may want to throttle how much a given user can take, micro payments could allow a set limit on your proxy.
-
-## **Make a Withdrawal**
-
-Withdrawals can be orchestrated by someone in the system with a balance.  It is a bad idea to store any funds on a server, as it invites hackers.  A hot wallet may be a solution but suffers from the same limitation.  A better solution might be have withdrawal requests sent to trusted notaries who verify the size and the request, then process based on cold storage, or a hardware wallet.
 
 ## Snapshots and Backups
 
