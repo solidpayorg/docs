@@ -6,7 +6,7 @@ As a user, Alice wishes to pay Bob, 10 units for a pizza. She creates a web cred
 
 ### Process {#process}
 
-Alice creates a web credit with source Alice, and destination Bob \(both URIs\).  She sets the amount to 10 and the currency to the wallet currency.  After adding a timestamp and id, she sends the web credit to the wallet inbox.  The wallet processes the credit, and if valid, updates the credit chain and changes the ledger.
+Alice creates a web credit with source Alice, and destination Bob \(both URIs\).  She sets the amount to 10 and the currency to the wallet currency.  She sets the description to "Pizza".  After adding a timestamp and id, she sends the web credit to the wallet inbox.  The wallet processes the credit, and if valid, updates the credit chain and changes the ledger.
 
 ### File Based Credit Chain
 
