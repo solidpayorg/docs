@@ -24,13 +24,13 @@ The IPFS system is used to store content addressable files.  Peers can 'pin' a f
 
 It may be possible to use the system to pay for the hosting of your wallet or other files with micro payments themselves.  In this way you can get a a bit of storage space and be confident your files will be long lived.
 
-## **Faucet**
-
-A faucet is a simple tool that allows users to get started with small amounts of currency, for free.  It can be used to test or to buy services to help those without funds.
-
 ## **Paywall**
 
 A pay wall is an access controlled piece of content.  Sending a micro payment to the right place can open up the content.  Solid is well suited to such use cases with its ACL system.
+
+## **Faucet**
+
+A faucet is a simple tool that allows users to get started with small amounts of currency, for free.  It can be used to test or to buy services to help those without funds.
 
 ## **Dynamic DNS Service**
 
