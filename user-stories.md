@@ -12,6 +12,10 @@ As a user, Alice wishes to pay Bob, 10 units for a pizza.  She creates a web cre
 
 Withdrawals can be orchestrated by someone in the system with a balance.  It is a bad idea to store any funds on a server, as it invites hackers.  A hot wallet may be a solution but suffers from the same limitation.  A better solution might be have withdrawal requests sent to trusted notaries who verify the size and the request, then process based on cold storage, or a hardware wallet.
 
+## **Paywall**
+
+A pay wall is an access controlled piece of content.  Sending a micro payment to the right place can open up the content.  Solid is well suited to such use cases with its ACL system.
+
 ## **Paint a pixel on Lightning Testnet**
 
 Bob wishes to paint a pixel on the website, [testnet.satoshis.place](https://testnet.satoshis.place/), however does not have a testnet lightning wallet.  Bob acquires some funds on solid from a friend and then decides which pixel to paint.  An invoice is created and the pixel is painted.  Bob's balance is reduced by one satoshi and recorded in the CreditChain.
@@ -23,10 +27,6 @@ The IPFS system is used to store content addressable files.  Peers can 'pin' a f
 ## **Pay for Hosting**
 
 It may be possible to use the system to pay for the hosting of your wallet or other files with micro payments themselves.  In this way you can get a a bit of storage space and be confident your files will be long lived.
-
-## **Paywall**
-
-A pay wall is an access controlled piece of content.  Sending a micro payment to the right place can open up the content.  Solid is well suited to such use cases with its ACL system.
 
 ## **Faucet**
 
