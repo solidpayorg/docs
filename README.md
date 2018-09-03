@@ -22,6 +22,8 @@ Higher layers such as Solid Pay can interface with both bitcoin and lightning an
 
 Solid builds on 30 years of Web research and development.  It has a cutting edge semantic layer with proven scalability, capable of smart contracts, ICOs, web hooks, machine feedback loops and much more.  It is available natively in every browser, so no need to install a wallet.  It has a proven security model, with digital signatures, which are the equivalent of signing a check.  
 
+Solid is a unique platform for payments -- in no other system can you spontaneously create an economy -- _as a user_ -- you dont need any server side programming experience -- just point and click, on any solid compliant system -- every other payment system out there needs installation, turnkey software, and sysadmin experience -- solid you can just create and tear down economies as they are needed. Quite revolutionary!
+
 Special features such as access control allow advanced use such as public and private ledgers, or even time, block and side chains.  Additionally, append only inboxes allow a unique and secure way of sending transactions from one server to another.  You can only do this with a full read write web, which solid offers.
 
 ### About This Guide
