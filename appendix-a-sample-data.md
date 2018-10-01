@@ -6,7 +6,7 @@
 @prefix : <https://w3id.org/cc#> .
 
 <#this> a :Wallet .
-<#this> <http://purl.org/dc/terms/descriptoin> """Test Wallet for the Solid economy""" .
+<#this> <http://purl.org/dc/terms/description> """Test Wallet for the Solid economy""" .
 <#this>  <http://www.w3.org/2000/01/rdf-schema#label> "Solid Test Wallet" .
 <#this> :ledger <./ledger/ledger.ttl> .
 <#this> :currency :testMBTC .
