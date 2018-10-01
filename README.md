@@ -28,7 +28,7 @@ Special features such as access control allow advanced use such as public and pr
 
 ### About This Guide
 
-Outlined in this guide are general concepts, user stories and technical details for creating and interacting with payment systems on under Solid. 
+Outlined in this guide are general concepts, user stories and technical details for creating and interacting with payment systems on Solid. 
 
 Anyone with a solid pod or that is a solid user can participate, without needing a wallet, however, it should be backwards compatible with the existing web.
 
