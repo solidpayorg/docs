@@ -1,3 +1,7 @@
+---
+description: Version 0.1 draft - work in progress
+---
+
 # Solid Pay
 
 ![Solid Pay!](.gitbook/assets/solidlogo.png)
