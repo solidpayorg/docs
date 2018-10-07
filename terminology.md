@@ -1,4 +1,4 @@
-# General Concepts
+# Terminology
 
 ## **Wallet**
 

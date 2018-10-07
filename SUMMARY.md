@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Solid Pay](README.md)
-* [General Concepts](general-concepts.md)
+* [Terminology](terminology.md)
 * [User Stories](user-stories.md)
 * [User Story : Make a Deposit](user-story-make-a-deposit.md)
 * [User Story : Make a Payment](user-story-make-a-payment.md)
