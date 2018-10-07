@@ -1,5 +1,9 @@
 # Terminology
 
+### Introduction
+
+The following is a set of terms used to describe balances and payments in solid pay.  The model is quite simple.  For a given wallet, each user has a balance creating a ledger.   Payments are a change in those ledgers.  The underlying data model for describing these two concepts is Linked data, also know as, the semantic web.  The solid platform provides a convenient way of reading and writing linked data, leading to the ability to create wallets, balances, and chains of payments.  Below are the main concepts.
+
 ## **Wallet**
 
 ![A Test Wallet](.gitbook/assets/testwallet.png)
