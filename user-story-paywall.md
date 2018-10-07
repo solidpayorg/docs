@@ -2,13 +2,17 @@
 
 ### User Story
 
-A pay wall is an access controlled piece of content. Sending a micro payment to the right place can open up the content. Solid is well suited to such use cases with its ACL system.
+> As a teacher, Alice wishes to make her educational notes available to fellow teacher.  Having put a great deal of effort into it, she would wish to get access to different notes from other teachers in return, or put up a pay wall for new teachers that have not yet prepared notes.  Alice will set the price of access, and a license indicating it is not to be shared further.  
+>   
+> Bob, having obtained some credits on Alice's system purchases the notes, and starts working on his own presentations, which he would like to share in a similar way.
 
 ### Process
 
-_This is a work in progress_
+Alice secures some educations material in a folder in her solid pod.  She shares the URI on her website or home page.
 
-A user encounters a URI and is unable to access via a 4xx error code \(402 is ideal, but it will be possible to polyfill\).  
+Bob's  attempts to access the URI, and receives a response, HTTP 402 - Payment Required.
+
+_More to follow.  This is a work in progress_
 
 
 
