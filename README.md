@@ -6,7 +6,7 @@ description: Version 0.1 draft - work in progress
 
 ![Solid Pay!](.gitbook/assets/solidlogo.png)
 
-**Solid Pay** is about making payments between two people on the Web.  It builds heavily on the [Solid](https://github.com/solid/solid) framework and the [webcredits](https://webcredits.github.io/spec/) specification.  This guide is an early draft and should be considered a work in progress.
+**Solid Pay** is about making payments between two people on the Web.  It builds heavily on the [Solid](https://github.com/solid/solid) framework and the [webcredits](https://webcredits.github.io/spec/) specification.  _This guide is an early draft and should be considered a work in progress._
 
 ### Instantaneous, zero cost transactions, that scale to millions per second
 
