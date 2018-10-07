@@ -18,7 +18,7 @@ Being a higher layer protocol it is capable of thousands or even millions of tra
 
 While block chains are a great technology, solid pay builds on _top_ of existing networks.  For example, the bitcoin block chain is instant but requires around ten minutes for a confirmation, has around 4 transactions per second and has a fee market.  
 
-Layer 2 such as lightning network has a deposit in order to participate and two transactions to build a channel, then can scale micro payments across a network efficiently.  
+Layer 2 such as lightning network has a deposit in order to participate and two transactions, one to create a channel and another to tear it down.  It can then can scale micro payments across a network efficiently.  
 
 Higher layers such as Solid Pay can interface with both bitcoin and lightning and offers a web based transaction system which uses lower layers for settlement.  Consider a system like adsense.  You may incur millions of clicks over a year, but only cash out once per month.
 
@@ -34,7 +34,7 @@ Special features such as access control allow advanced use such as public and pr
 
 Solid uses, digital signatures, which is a bit like signing a check.  This means that I can write something but cannot fake it.  If two people on the web trust each other, they can digitally sign things so that the signer cannot take it back.  
 
-This guarantees that the payer is who they say they are and the amount is valid.  Payments are collected into a ledger and the ledger forms a set of balances.  Both of these can be verified.  This guarantees that each payment has an audit trail and the balances in the ledger are accurate.
+This guarantees that the payer is who they say they are and the amount is valid.  Payments are collected into a ledger and the ledger forms a set of balances.  Both of these can be verified.  This ensures that each payment has an audit trail and the balances in the ledger are accurate.
 
 It is a proven security model with decades of battle hardened industry testing.  All communication is encrypted over the wire, so that it is impossible to eves drop.
 
