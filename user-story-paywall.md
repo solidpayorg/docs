@@ -12,6 +12,8 @@ Alice secures some educations material in a folder in her solid pod.  She shares
 
 Bob's  attempts to access the URI, and receives a response, HTTP 402 - Payment Required.
 
+Bob will require some credits in his wallet in order to pay.  And will require an inbox to post credits to, as well as, an amount to pay.
+
 _More to follow.  This is a work in progress_
 
 
