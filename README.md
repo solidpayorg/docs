@@ -30,7 +30,7 @@ Solid is a unique platform for payments -- in no other system can you spontaneou
 
 Special features such as access control allow advanced use such as public and private ledgers, or even time, block and side chains.  Additionally, append only inboxes allow a unique and secure way of sending transactions from one server to another.  You can only do this with a full read write web, which solid offers.
 
-### What is the Security Model
+### What is the Security Model?
 
 Solid uses, digital signatures, which is a bit like signing a check.  This means that I can write something but cannot fake it.  If two people on the web trust each other, they can digitally sign things so that the signer cannot take it back.  
 
