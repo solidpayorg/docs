@@ -10,7 +10,7 @@ Alice creates a web credit with source Alice, and destination Bob \(both URIs\).
 
 ### File Based Credit Chain
 
-Validation first verifies that the credit was sent by the user.  This can be done via digital signatures, or in the login handshake.  Next the fields must be well formed.  ShEx for example can be used here.  Finally the user must have enough funds for the credit.
+Validation first verifies that the credit was sent by the user.  This can be done via digital signatures, or in the login handshake.  Next the fields must be well formed.  [ShEx](https://www.w3.org/2001/sw/wiki/ShEx) for example can be used here.  Finally the user must have enough funds for the credit.
 
 If the credit validates, it is added to the CreditChain.  The simplest implementation uses flat files for each block in the credit chain.  Given that files cannot grow indefinitely in length, it may be practical to set a max number of credits per file, and link to the previous.  Atomically the Ledger is also incremented and decremented based on the credit.
 
