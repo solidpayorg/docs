@@ -10,7 +10,7 @@ In Solid Pay every user is denoted by a URI.  In order to make a deposit from an
 
 ### Deposits from Bitcoin and Bitcoin Testnet
 
-The method described here uses Hierarchical Deterministic wallets \(HD Wallet\).  This has the advantage of ensuring that funds never live on the server, leading to better security.  A keypair is generated and the public key is added to the wallet definition.  From this public key, it is possible to derive a child public key for any hashed URI.
+The method described here uses [Hierarchical Deterministic Wallets](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki) \(HD Wallet\).  This has the advantage of ensuring that funds never live on the server, leading to better security.  A keypair is generated and the public key is added to the wallet definition.  From this public key, it is possible to derive a child public key for any hashed URI.
 
 Code to do this can be seen [here](https://github.com/quantumpayments/hdwallet/blob/master/test/util.js).  The private key is kept in cold storage and only used when withdrawals are to be made.
 
