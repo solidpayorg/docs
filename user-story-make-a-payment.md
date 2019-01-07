@@ -20,5 +20,5 @@ The order of the credits is important, in order to guarantee the integrity of th
 
 ### Comments
 
-It is optionally possible to add a comment to a payment.  There is a desired social effect around tipping \(aka marking\) in order to reward users who have behaved well and to leave a short reason why that payment was made.  This can lead to a contextual web of reputation encouraging good behaviour, discouraging bad behaviour and creating a metric.
+It is optionally possible to add a comment \(also called a description\) to a payment.  There is a desired social effect around tipping \(aka marking\) in order to reward users who have behaved well and to leave a short reason why that payment was made.  This can lead to a contextual web of reputation encouraging good behaviour, discouraging bad behaviour and creating a metric.
 
