@@ -2,7 +2,7 @@
 
 ### User Story
 
-Withdrawals can be orchestrated by someone in the system with a balance.  It is a bad idea to store any funds on a server, as it invites hackers.  A hot wallet may be a solution but suffers from the same limitation.  A better solution might be have withdrawal requests sent to trusted notaries who verify the size and the request, then process based on cold storage, or a hardware wallet.
+Withdrawals can be orchestrated by someone in the system with a balance.  Storing funds on a server, should ideally be avoided, as it will make the server a target for hackers.  A hot wallet may be a solution but suffers from a similar limitation.  A more optimal solution, would be to have withdrawal requests sent to trusted notaries, who then verify the size and the request.  After verification, the notary can process the withdrawal based on cold storage, or a hardware wallet.
 
 ### Process
 
