@@ -6,6 +6,7 @@ The outline of payments system sketched out in my head, I can start to implement
 * online bankings
 * tipping
 * donations and crowd funding
+* subscriptions
 * \(book\) marking
 * web of reputation
 * bounties
