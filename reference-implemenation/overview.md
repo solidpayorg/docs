@@ -26,7 +26,9 @@ The outline of payments system sketched out in my head, I can start to implement
 * pay to inbox
 * in app purchases
 * vouchers
+* pay for \(micro\) tasks, work, consultancy
 * accounting
+* payroll services
 * verification of transaction history
 * auditing, proof of keys, proof of reserves
 * decentralized autonomous organizations
