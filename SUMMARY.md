@@ -12,6 +12,6 @@
 
 ## Reference Implemenation
 
-* [Reference Implementaion](reference-implemenation/reference-implementaion.md)
 * [Overview](reference-implemenation/overview.md)
+* [Wallet Creation](reference-implemenation/wallet-creation.md)
 
