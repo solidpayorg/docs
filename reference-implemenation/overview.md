@@ -39,6 +39,7 @@ The outline of payments system sketched out in my head, I can start to implement
 * time stamping and notary services \(e.g. in space, on the block chain\)
 * ethical advertising
   * paying to push an unsolicited message
+    * basically you attack a voucher to a message, and the person can cash the voucher if they read the message, you wont cash the vouchers from your friends by convention, but you will cash the voucher from unsolicited messages, should you choose to read them -- you can then also have a reporting system in solid to minimize abuse
 * web contracts
 * web mining
 
