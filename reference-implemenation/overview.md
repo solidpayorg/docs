@@ -28,6 +28,7 @@ The outline of payments system sketched out in my head, I can start to implement
 * inter ledger payments
 * pay to inbox
 * in app purchases
+* pay for APIs or proxy servers
 * vouchers
 * pay for \(micro\) tasks, work, consultancy
 * accounting
