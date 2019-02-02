@@ -22,6 +22,7 @@ The outline of payments system sketched out in my head, I can start to implement
 * in app purchases
 * vouchers
 * accounting
+* decentralized autonomous organizations
 * time stamping and notary services \(e.g. in space, on the block chain\)
 * web contracts
 * web mining
