@@ -50,6 +50,7 @@
 
 Not yet written up
 
+* ledger creation
 * wallet creation
 * online banking functions \(statement, deposit, withdraw, pay\)
 * tipping

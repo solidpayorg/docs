@@ -2,6 +2,7 @@
 
 The outline of payments system sketched out in my head, I can start to implement it now -- the use cases I've come up with
 
+* ledger creation
 * wallet creation
 * online banking functions \(statement, deposit, withdraw, pay\)
 * tipping
