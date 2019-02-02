@@ -5,6 +5,8 @@ The outline of payments system sketched out in my head, I can start to implement
 * wallet creation
 * ledger creation
 * online banking functions \(statement, deposit, withdraw, pay\)
+* paywall
+* streaming content delivery
 * tipping
 * donations and crowd funding
 * subscriptions
