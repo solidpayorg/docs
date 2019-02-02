@@ -17,6 +17,7 @@ The outline of payments system sketched out in my head, I can start to implement
 * web of reputation
 * bounties
 * rewards
+* basic income
 * air drops and faucets
 * bootstrapping existing economies
 * bootstrapping existing social networks
