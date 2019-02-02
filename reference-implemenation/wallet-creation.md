@@ -32,6 +32,8 @@ Set up a lightning node with your seed
 
 Save your public key from the seed
 
+Your node alias must be your wallet URI
+
 #### Record on the block chain
 
 Cost : 1600 satoshis
