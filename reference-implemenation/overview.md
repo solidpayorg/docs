@@ -37,7 +37,8 @@ The outline of payments system sketched out in my head, I can start to implement
 * auditing, proof of keys, proof of reserves
 * decentralized autonomous organizations
 * time stamping and notary services \(e.g. in space, on the block chain\)
-* ethical advertising 
+* ethical advertising
+  * paying to push an unsolicited message
 * web contracts
 * web mining
 
