@@ -9,6 +9,7 @@ The outline of payments system sketched out in my head, I can start to implement
 * subscriptions
 * pay for solid storage
 * pay for solid services \(e.g. CNAME or dyndns\)
+* pay for security, passwords, keys, funds stored safely and protected via hashing
 * \(book\) marking
 * web of reputation
 * bounties
