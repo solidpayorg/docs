@@ -22,6 +22,8 @@ Pick a container in your pod to create the wall
 
 Follow the instructions to create a wallet
 
+Give the wallet a name
+
 #### Lightning Setup
 
 Convert your entropy into a keypari
