@@ -7,6 +7,8 @@ The outline of payments system sketched out in my head, I can start to implement
 * tipping
 * donations and crowd funding
 * subscriptions
+* pay for solid storage
+* pay for solid services \(e.g. CNAME or dyndns\)
 * \(book\) marking
 * web of reputation
 * bounties
@@ -18,6 +20,7 @@ The outline of payments system sketched out in my head, I can start to implement
 * productivity
 * IOUs
 * loans
+* public offerings
 * inter ledger payments
 * pay to inbox
 * in app purchases
